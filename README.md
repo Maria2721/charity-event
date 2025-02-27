@@ -12,7 +12,7 @@ This repository is for the React project of Hackathon Team 5.
 
 ## Deploy
 
-- https://react-event-5.pages.dev/catalog
+- https://charity-event.pages.dev
 
 ## Technology Stack
 
@@ -55,11 +55,11 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KristinaBalashova/react-event-5
+   git clone https://github.com/Maria2721/charity-event
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd react-event-5
+   cd charity-event
    ```
 3. **Install dependencies:**
    ```bash

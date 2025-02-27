@@ -10,7 +10,7 @@ export const Footer = () => {
             <Typography variant="body1">Об ивенте</Typography>
           </Link>
           <Link
-            href="https://github.com/KristinaBalashova/react-event-5"
+            href="https://github.com/Maria2721/charity-event"
             target="_blank"
             rel="noopener"
             color="common.black"
