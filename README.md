@@ -12,7 +12,7 @@ This repository is for the React project of Hackathon Team 5.
 
 ## Deploy
 
-- https://charity-event.pages.dev
+- https://charity-event-maria2721.vercel.app/
 
 ## Technology Stack
 
